@@ -10,6 +10,8 @@ From Beginner to Advance Data Manipulation <b></b> 🔬
 <li>Days 71 - 80 &nbsp;|&nbsp; <b>DATA SCIENCE</b></li>
 </ul>
 
+* Assignment Projects: Day 98 - Day 100 
+
 <br />
 
 
