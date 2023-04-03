@@ -10,7 +10,11 @@ From Beginner to Advance Data Manipulation <b></b> 🔬
 <li>Days 71 - 80 &nbsp;|&nbsp; <b>DATA SCIENCE</b></li>
 </ul>
 
-* Assignment Projects: Day 98 - Day 100 
+* Assignment Projects: Day 98 - Day 100:
+* Day 98 - <a href="https://colab.research.google.com/drive/1ShsX_RfjOELz34-ZB53XT0nPk0jaMCiT?usp=share_link" target="_blank">Space Missions Analysis</a>
+* Day 99 - <a href="https://colab.research.google.com/drive/1lKa1BJI3P1V8c_LY9JcsUoybzi7GLMqw?usp=sharing" target="_blank">Analyse Deaths involving Police in USA</a>
+* Day 100 - <a href="https://colab.research.google.com/drive/17hGy0LJ-W7z6_kpsRF3P6ijQ0xqDjggg?usp=sharing" target="_blank">Predict Earnings using Multivariable Regression</a>
+
 
 <br />
 
